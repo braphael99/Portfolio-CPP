@@ -1,0 +1,8 @@
+﻿  BoggleBoard.cpp
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\Trie.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\BoggleBoard.cpp(69,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\BoggleBoard.cpp(127,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\BoggleBoard.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\BoggleBoard.cpp(273,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\BoggleBoard.cpp(275,21): warning C4018: '<': signed/unsigned mismatch
+  DS_Programming_Project_4.vcxproj -> C:\Users\braph\Desktop\Portfolio\C++\Data Structures\DS_Programming_Project_4\Debug\DS_Programming_Project_4.exe

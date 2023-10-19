@@ -1,0 +1,26 @@
+﻿  Lab11.cpp
+  PokerEvaluator.cpp
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(129,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(424,7): warning C4101: 'aceOne': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(424,15): warning C4101: 'aceTwo': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(493,18): warning C4101: 'threesTwo': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(493,29): warning C4101: 'threesThree': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(493,7): warning C4101: 'threesOne': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(493,42): warning C4101: 'threesFour': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,31): warning C4101: 'twoPairThree': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,7): warning C4101: 'twoPairOne': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,19): warning C4101: 'twoPairTwo': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,45): warning C4101: 'twoPairFour': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,71): warning C4101: 'twoPairSix': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(566,58): warning C4101: 'twoPairFive': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,7): warning C4101: 'pairOne': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,25): warning C4101: 'pairThree': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,56): warning C4101: 'pairSix': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,36): warning C4101: 'pairFour': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,46): warning C4101: 'pairFive': unreferenced local variable
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\PokerEvaluator.cpp(651,16): warning C4101: 'pairTwo': unreferenced local variable
+  Generating Code...
+  Lab11.vcxproj -> C:\Users\braph\Desktop\Portfolio\C++\Lab11\Debug\Lab11.exe

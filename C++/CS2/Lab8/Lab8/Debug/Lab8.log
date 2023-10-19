@@ -1,0 +1,12 @@
+﻿  Dictionary.cpp
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(199,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(215,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(278,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(312,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(335,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(336,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Dictionary.cpp(353,20): warning C4018: '<': signed/unsigned mismatch
+  Lab8.vcxproj -> C:\Users\braph\Desktop\Portfolio\C++\Lab8\Lab8\Debug\Lab8.exe

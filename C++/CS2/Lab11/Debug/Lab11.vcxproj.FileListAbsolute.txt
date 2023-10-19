@@ -1,0 +1,2 @@
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\Debug\Lab11.exe
+C:\Users\braph\Desktop\Portfolio\C++\Lab11\Debug\Lab11.pdb

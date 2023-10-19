@@ -1,0 +1,15 @@
+template <Class T>
+class Stack
+{
+ public:
+	Stack();
+	~Stack();
+	void push(const T& elem);
+	T pop();
+	T top();
+	int size();
+	bool isEmpty();
+ private:
+	DoublyLinkedList <T> list;
+
+};

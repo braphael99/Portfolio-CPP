@@ -1,0 +1,8 @@
+﻿  Election.cpp
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(88,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Election.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingProject4.vcxproj -> C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject4\Debug\ProgrammingProject4.exe

@@ -1,0 +1,2 @@
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\Debug\ProgrammingProject01.exe
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\Debug\ProgrammingProject01.pdb

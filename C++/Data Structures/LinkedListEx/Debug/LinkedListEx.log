@@ -1,0 +1,42 @@
+﻿  main.cpp
+  LinkedListEx.cpp
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(23,15): error C2065: 'p_next': undeclared identifier
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(50): message : see reference to class template instantiation 'LinkedList<double>::Node' being compiled
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(44): message : while compiling class template member function 'LinkedList<double>::~LinkedList(void)'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedListEx.cpp(14): message : see reference to function template instantiation 'LinkedList<double>::~LinkedList(void)' being compiled
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedListEx.cpp(14): message : see reference to class template instantiation 'LinkedList<double>' being compiled
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(23,1): error C2150: 'LinkedList<double>::Node::data': bit field must have type 'int', 'signed int', or 'unsigned int'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(50,1): error C2039: 'p_next': is not a member of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(20): message : see declaration of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(62,23): warning C4244: '=': conversion from 'const T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(59): message : while compiling class template member function 'void LinkedList<double>::insert(const T &)'
+          with
+          [
+              T=double
+          ]
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedListEx.cpp(15): message : see reference to function template instantiation 'void LinkedList<double>::insert(const T &)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(63,1): error C2039: 'p_next': is not a member of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(20): message : see declaration of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(90,1): error C2039: 'p_next': is not a member of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(20): message : see declaration of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(86): message : while compiling class template member function 'bool LinkedList<double>::next(T &)'
+          with
+          [
+              T=double
+          ]
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedListEx.cpp(23): message : see reference to function template instantiation 'bool LinkedList<double>::next(T &)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(92,1): error C2039: 'p_next': is not a member of 'LinkedList<double>::Node'
+C:\Users\braph\Desktop\Portfolio\C++\Data Structures\LinkedListEx\LinkedList.h(20): message : see declaration of 'LinkedList<double>::Node'
+  Generating Code...

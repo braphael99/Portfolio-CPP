@@ -1,0 +1,15 @@
+﻿  ProgrammingProject01.cpp
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\ProgrammingProject01.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\ProgrammingProject01.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\ProgrammingProject01.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  WordCollection.cpp
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(131,94): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(146,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(163,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\WordCollection.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ProgrammingProject01.vcxproj -> C:\Users\braph\Desktop\Portfolio\C++\ProgrammingProject01\Debug\ProgrammingProject01.exe
